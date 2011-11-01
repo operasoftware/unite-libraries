@@ -288,3 +288,6 @@ If a warning is shown, and the user chooses to continue, any POST request is cha
 In order to maintain security, the services will by default ignore requests for administration access from other instances or browsers. There is no native way of doing remote administration of applications. Developers can relax this model by implementing additional administration using authentication and nonces. It is not possible to access the admin subdomain through an IP address or through localhost, so the same applies in this case.
 
 <b>Author:</b> Hans S. Toemmerholt, Web Applications, Opera Software ASA
+
+### JSDoc
+Documentation can be generated with JSDoc (either version [2](http://code.google.com/p/jsdoc-toolkit/) or [3](https://github.com/micmath/jsdoc)).

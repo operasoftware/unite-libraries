@@ -10,6 +10,10 @@ This file contains an API for publishing to an activity stream (partly based on 
 
 gettext is a JavaScript implementation of GNU Gettext, providing internationalization support for JavaScript, eg handling .po files.
 
+### File I/O API
+
+The File I/O API provides you with functionality needed to access data on the desktop from widgets or Unite Apps.
+
 ### librariesLoader
 
 This library handles the loading of all your application's external library resources, including making sure all dependencies are present, and that the directory structure is ok.
