@@ -431,7 +431,13 @@ var WebServerRequest = function () {
     this.connection = {}; 
  
     /** 
-     * The HTTP method of this request, one of GET, POST, PUT or DELETE. Readonly. 
+     * The HTTP method of this request, one of GET, POST, PUT or DELETE. Readonly.
+     *
+     * <pre><code>var httpMethod = event.connection.request.method; 
+     * if ( httpMethod == "POST" ) { // do something with POST }</code></pre>
+     *
+     * <p>NOTE: The PUT and DELETE methods are not accessible through the DOM API.</p>
+     *
      * @type String 
      */ 
     this.method = ''; 
