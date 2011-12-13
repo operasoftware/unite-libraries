@@ -216,7 +216,7 @@ filesystem. The method `refresh()` is used for this purpose:
 <pre><code>dir.refresh(); //Load the contents of the directory
 for ( var i = 0, file; file = dir[i]; i++ )
 {
-    opera.postError(file.path + ' ' + file.isDirectory + ' ' file.isFile);
+    opera.postError(file.path + ' ' + file.isDirectory + ' ' + file.isFile);
 }</code></pre>
 
 When the file is a directory, its `length` property will tell you how many files and subdirectories there are in the directory.
