@@ -1,5 +1,7 @@
 ## ResourceFetcher
 
+**Note: since April 2012 development and support for Opera Unite has been discontinued. This includes the Opera Unite functionality inside the Opera desktop browser itself, as well as the Opera Unite servers that provided the public `user.operaunite.com` URLs.**
+
 ResourceFetcher is a class for periodically downloading resources from URLs. You can use it to not only download the resources, but also provide reporting on whether the downloads are successful. You can also set parameters such as the time to wait between making each download request, and the time to wait before you assume a download has failed and give a timeout error.
 
 An example:

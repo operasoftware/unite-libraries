@@ -1,5 +1,7 @@
 ## Service discovery API
 
+**Note: since April 2012 development and support for Opera Unite has been discontinued. This includes the Opera Unite functionality inside the Opera desktop browser itself, as well as the Opera Unite servers that provided the public `user.operaunite.com` URLs.**
+
 The service discovery API lets you discover which devices and services are running in you local network, without having to go through DNS. This means you can for example discover and tie together services running in your home, even though these are not available on the Internet.
 
 Examples of use stretches from the simple to the advanced:

@@ -1,4 +1,6 @@
 ##Unite API
+
+**Note: since April 2012 development and support for Opera Unite has been discontinued. This includes the Opera Unite functionality inside the Opera desktop browser itself, as well as the Opera Unite servers that provided the public `user.operaunite.com` URLs.**
   
 ###Opera Unite Web server APIs
 

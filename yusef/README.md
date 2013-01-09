@@ -1,5 +1,7 @@
 ## Yusef Library
 
+**Note: since April 2012 development and support for Opera Unite has been discontinued. This includes the Opera Unite functionality inside the Opera desktop browser itself, as well as the Opera Unite servers that provided the public `user.operaunite.com` URLs.**
+
 The Opera Unite application framework — Yusef — is the foundation of Opera Unite applications bundled with Opera. It eases the development of Opera Unite applications by providing a set of core features such as access control, templating, secure administration and actions, image resizing, caching and more. For more information, you can check out our [Yusef: the Unite Server Framework article](http://dev.opera.com/articles/view/yusef-the-unite-server-framework/).
 
 ### Yusef plugins

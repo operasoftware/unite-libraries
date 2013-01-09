@@ -1,5 +1,7 @@
 ## Libraries Loader
 
+**Note: since April 2012 development and support for Opera Unite has been discontinued. This includes the Opera Unite functionality inside the Opera desktop browser itself, as well as the Opera Unite servers that provided the public `user.operaunite.com` URLs.**
+
 This library handles the loading of all your application's external library resources, including making sure all dependencies are present, and that the directory structure is OK.
 
 ### Summary

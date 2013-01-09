@@ -1,5 +1,7 @@
 ##File IO API
 
+**Note: since April 2012 development and support for Opera Unite has been discontinued. This includes the Opera Unite functionality inside the Opera desktop browser itself, as well as the Opera Unite servers that provided the public `user.operaunite.com` URLs.**
+
 This API document describes the JavaScript bindings for accessing
 the local file system in Opera.
 
